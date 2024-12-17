@@ -1,9 +1,9 @@
-### Group members: Jonas Enlund, Mehdi Tahari and Angel Velazquez
-# **Jonas** is, like the rest of the group, a first-yeara IT student with big ambitions. He recently turned 30 and is born and raised in Kokkola, Finland.
+## Group members: Jonas Enlund, Mehdi Tahari and Angel Velazquez
+### **Jonas** is, like the rest of the group, a first-year IT student with big ambitions. He recently turned 30 and is born and raised in Kokkola, Finland.
 
-# **Mehdi** is
+### **Mehdi** is
 
-# **Angel** is
+### **Angel** is
 
 Find our personal portfolios 
 [here](https://github.com/enlundjonas) for Jonas,
