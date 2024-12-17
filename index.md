@@ -7,5 +7,5 @@
 
 Find our personal portfolios 
 [here](https://github.com/enlundjonas) for Jonas,
-[here](https://github.com/Medhi.Mor) for Mehdi and 
+[here](https://github.com/Mehdi-Mor) for Mehdi and 
 [here](https://github.com/wannabenerd404) for Angel.
